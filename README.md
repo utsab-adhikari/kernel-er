@@ -36,6 +36,20 @@ It is a personal OS laboratory and a public record of how my understanding evolv
 Public documentation lives at:  
 👉 **kernel-er.utsabadhikari.me**
 
+## About the `diu/` directory
+
+The `diu/` (During I Understand) directory contains experimental programs,
+learning exercises, and concept-verification code written while studying
+operating system fundamentals.
+
+Code inside `diu/`:
+- is not part of the kernel
+- may be incomplete, inefficient, or intentionally simple
+- exists solely to build understanding before writing real kernel code
+
+This directory should be ignored when evaluating kernel-er as an OS project.
+
+
 
 ## Guiding Principle
 
